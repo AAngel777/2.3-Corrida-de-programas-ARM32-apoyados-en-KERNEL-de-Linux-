@@ -1,6 +1,8 @@
 #include "iostream"
 #include "string"
 
+using namespace std;
+
 int main()
 {
     cout << "Hola! Este es un ejemplo en C++" << "\n" << "Por favor ingrese su nombre:" << "\n";
@@ -12,8 +14,10 @@ int main()
    cout << "Bienvenido al sistema " << nombre << ". Gracias por usar nuestra aplicación" << "\n";
 
 
-  return 0;
-/*.global main
+   return 0;
+   /*
+   .text
+	.global main
 	.extern printf
 	.extern scanf
 
@@ -34,5 +38,5 @@ main:   push 	{ip, lr}	@ push return address + dummy register
 
 
         pop 	{ip, pc}	@ pop return address into pc
-*/
+   */
 }
