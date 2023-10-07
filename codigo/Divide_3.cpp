@@ -1,5 +1,14 @@
 #include <iostream>
+/*
+    Problema que divide 9 entre 3 en c++ , comparado como comentario con un 
+    programa que realiza lo mismo en lenguaje ensamblador
+    Valores predefinidos
+    Guiado en problemas en linea
 
+*/
+
+    //@Author       AAngel777
+    //@Date         6 Oct 2023
 int main() {
     std::cout << "El resultado de la división 9 / 3 es: " << 9 / 3 << std::endl;
     return 0;

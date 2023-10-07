@@ -1,6 +1,14 @@
 #include "iostream"
 #include "string"
+/*
+    Problema de Captura de datos en c++ , comparado como comentario con un 
+    programa que realiza lo mismo en lenguaje ensamblador
+	    Guiado en problemas en linea
 
+*/
+
+    //@Author       AAngel777
+    //@Date         6 Oct 2023
 using namespace std;
 
 int main()

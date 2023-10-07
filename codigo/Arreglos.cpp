@@ -1,5 +1,14 @@
 #include <iostream>
+/*
+    Problema de Arreglos en c++ , comparado como comentario con un 
+    programa que realiza lo mismo en lenguaje ensamblador
+    Valores predefinidos
+    Guiado en problemas en linea
 
+*/
+
+    //@Author       AAngel777
+    //@Date         6 Oct 2023
 int main() {
     const int tamanoArreglo = 5; // Definimos el tamaño del arreglo como 5.
     int arreglo[tamanoArreglo] = {10, 20, 30, 40, 50}; // Declaración del arreglo con valores iniciales.

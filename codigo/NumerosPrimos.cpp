@@ -1,4 +1,14 @@
 #include <iostream>
+/*
+    Problema que despliega numeros primos en c++ , comparado como comentario con un 
+    programa que realiza lo mismo en lenguaje ensamblador
+    Valores predefinidos
+    Guiado en problemas en linea
+
+*/
+
+    //@Author       AAngel777
+    //@Date         6 Oct 2023
 
 int main() {
     int contador = 1;  // Inicializamos un contador en 1 para empezar con el primer número impar.

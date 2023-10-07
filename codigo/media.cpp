@@ -1,4 +1,14 @@
 #include <iostream>
+/*
+    Problema que calcula media aritmetica en c++ , comparado como comentario con un 
+    programa que realiza lo mismo en lenguaje ensamblador
+    Valores predefinidos
+    Guiado en problemas en linea
+
+*/
+
+    //@Author       AAngel777
+    //@Date         6 Oct 2023
 
 int main() {
     // Definir los tres números predefinidos
