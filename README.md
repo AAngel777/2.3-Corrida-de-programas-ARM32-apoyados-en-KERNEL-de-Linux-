@@ -23,7 +23,7 @@ Unidad:
 2
 
 Título del trabajo:
-2.3 Corrida de programas ARM32
+EXAMEN DE ÚNICA OPORTUNIDAD 
 
 Estudiante:
 García Cerillo Angel Albino
